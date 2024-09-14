@@ -1,2 +1,2 @@
 # MLFromScratch
-Here I practice implimentib=ng ML algorithms from scratch with out the help of built repositories.
+Here I practice implimenting ML algorithms from scratch with out the help of built repositories.
